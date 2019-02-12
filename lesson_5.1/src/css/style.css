@@ -1,0 +1,56 @@
+body{
+  display: block;
+width: 1170px;
+margin: 0 auto;
+background-color: rgba(128, 128, 128, 0.233);
+}
+.list{
+  display: table;
+  position: fixed;
+  right: 5px;
+  padding: 10px;
+  top: 10px;
+  clear: both;
+}
+h1{
+text-align: center;
+color:brown;
+}
+h2{
+  text-align: center;
+}
+.chapter a{ color: red;
+  border: none;
+}
+img{
+  float: left;
+  margin: 4px 15px 15px 0;
+}
+.list a{
+  text-decoration: none;
+  color: yellowgreen;
+  border: none;
+}
+a{
+  border: 1px solid black;
+  padding: 2px;
+}
+p{
+  padding-right: 180px;
+}
+.book{
+  font-style: italic; 
+}
+.indisputably{
+  text-decoration: line-through;
+}
+.autor{
+  text-decoration: underline;
+}
+.top a{
+  border: none;
+  text-decoration: none;
+}
+
+
+
